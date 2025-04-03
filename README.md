@@ -30,7 +30,7 @@ I'm always on the lookout for new technologies and methodologies to improve my s
 
 ## 📫 Get in Touch
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/emmanuelj1) or reach out via email at emmanueljoseph0025@gmail.com. I'm always open to discussing new projects, collaborations, or just chatting about tech!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/emmanuelj1) or reach out via email at dev.emmanueljoseph@gmail.com. I'm always open to discussing new projects, collaborations, or just chatting about tech!
 
 Thanks for visiting my GitHub profile!
 <!---
